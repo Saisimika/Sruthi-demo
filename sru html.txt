@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>UAE Lending Regulations Demo</title>
+
+</head>
+
+ 
+
+<body style="font-family: Arial; margin:40px;">
+
+ 
+
+<h1>Central Bank of UAE</h1>
+
+ 
+
+<h2>Lending Regulatory Updates</h2>
+
+ 
+
+<hr>
+
+ 
+
+<h3>Latest Circular</h3>
+
+ 
+
+<p><strong>Circular Number:</strong> LR-002/2026</p>
+
+ 
+
+<p><strong>Date:</strong> 26 June 2026</p>
+
+ 
+
+<p>
+
+Consumer Finance Regulations Version 3.0
+
+</p>
+<p>
+NEW UPDATE:
+Finance companies shall perform enhanced affordability assessments before approving retail loans.
+</p>
+
+ 
+
+<p>
+
+Status:
+
+<span style="color:green;">
+
+Active
+
+</span>
+
+</p>
+
+ 
+
+</body>
+
+</html>
